@@ -17,6 +17,8 @@ def multiplication_or_addition(num1, num2):
 
 result = multiplication_or_addition(25,26)
 print(result)
+# 650
 
 result = multiplication_or_addition(120, 123)
 print(result)
+# 243
