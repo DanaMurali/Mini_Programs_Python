@@ -1,7 +1,6 @@
 # Reverse a given number and return true if it is the same as the original number
 
 num1 = 323
-
 num2 = 625
 
 def reverse_check(number):
@@ -20,13 +19,12 @@ def reverse_check(number):
     else:
         return False
 
-
 print("Original is the same as the Reversed:", reverse_check(787))
 print("Original is the same as the Reversed:", reverse_check(num1))
 print("Original is the same as the Reversed:", reverse_check(num2))
 
 
-# Logic - if number = 12345
+# Logic for reversing number- if number = 12345
 
 # We initialed a number variable for user input and variable revs_number initial value to null.
 
